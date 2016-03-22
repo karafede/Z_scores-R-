@@ -1,3 +1,2 @@
-# Z score with R-
-Calculation of Z score with R
+# Z score with R
 Calculation of Z score with R
