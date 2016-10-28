@@ -1,0 +1,74 @@
+"date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","verify_id","validity_id","unit_id","unit_name","statistic_type","ratified_name","verification_status","network_parameter_id","network_id","z_score","z_score_fail"
+2015-10-13,2015-10-14,"abd","Aberdeen","v25",-1.270833,65568,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",-3.1338512831853,FALSE
+2015-11-26,2015-11-27,"card","Cardiff Centre","v10",-1.171429,63644,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.05243981465517,FALSE
+2015-10-01,2015-10-02,"dery","Derry","v10",7.95,64699,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.06200253102782,FALSE
+2015-10-10,2015-10-11,"eb","Eastbourne","v10",7.425,66394,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.33936236371974,FALSE
+2015-10-11,2015-10-12,"eb","Eastbourne","v10",9.6375,66394,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.41298185895599,FALSE
+2015-10-18,2015-10-19,"eb","Eastbourne","v10",6.358333,66394,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.42735944933052,FALSE
+2015-11-13,2015-11-14,"eb","Eastbourne","v10",3.9125,66394,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.08843523000936,FALSE
+2015-10-09,2015-10-10,"ed3","Edinburgh St Leonards","v25",-1.62381,65122,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",-3.50641954331305,FALSE
+2015-11-17,2015-11-18,"glkp","Glasgow Townhead","v10",-2.383333,74545,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.2180712659832,FALSE
+2015-10-14,2015-10-15,"har","Harwell","v10",5.25,65709,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1008,"RURAL",3.11784907365605,FALSE
+2015-12-02,2015-12-03,"hope","Stanford-le-Hope Roadside","v10",69.154167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.9845486039751,FALSE
+2015-12-03,2015-12-04,"hope","Stanford-le-Hope Roadside","v10",80.35,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.9321422683681,FALSE
+2015-12-04,2015-12-05,"hope","Stanford-le-Hope Roadside","v10",53.254167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8196292423718,FALSE
+2015-12-05,2015-12-06,"hope","Stanford-le-Hope Roadside","v10",54.925,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7990925770355,FALSE
+2015-12-06,2015-12-07,"hope","Stanford-le-Hope Roadside","v10",83.816667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8807421691547,FALSE
+2015-12-07,2015-12-08,"hope","Stanford-le-Hope Roadside","v10",94.779167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.9158434794154,FALSE
+2015-12-08,2015-12-09,"hope","Stanford-le-Hope Roadside","v10",78.429167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8971557606437,FALSE
+2015-12-09,2015-12-10,"hope","Stanford-le-Hope Roadside","v10",40.233333,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.6655076215164,FALSE
+2015-12-10,2015-12-11,"hope","Stanford-le-Hope Roadside","v10",74.883333,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7734729748154,FALSE
+2015-12-11,2015-12-12,"hope","Stanford-le-Hope Roadside","v10",67.5375,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7371186388464,FALSE
+2015-12-12,2015-12-13,"hope","Stanford-le-Hope Roadside","v10",60.8875,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8356012947141,FALSE
+2015-12-13,2015-12-14,"hope","Stanford-le-Hope Roadside","v10",75.820833,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8506030772777,FALSE
+2015-12-14,2015-12-15,"hope","Stanford-le-Hope Roadside","v10",74.195833,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.6924936148421,FALSE
+2015-12-15,2015-12-16,"hope","Stanford-le-Hope Roadside","v10",108.008333,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8602762117658,FALSE
+2015-12-16,2015-12-17,"hope","Stanford-le-Hope Roadside","v10",91.7375,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7983573397189,FALSE
+2015-12-17,2015-12-18,"hope","Stanford-le-Hope Roadside","v10",98.016667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8473123557499,FALSE
+2015-12-18,2015-12-19,"hope","Stanford-le-Hope Roadside","v10",110.466667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.890458507259,FALSE
+2015-12-19,2015-12-20,"hope","Stanford-le-Hope Roadside","v10",105.941667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8391693584882,FALSE
+2015-12-20,2015-12-21,"hope","Stanford-le-Hope Roadside","v10",107.504167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8978247830732,FALSE
+2015-12-21,2015-12-22,"hope","Stanford-le-Hope Roadside","v10",82.175,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7660299860927,FALSE
+2015-12-22,2015-12-23,"hope","Stanford-le-Hope Roadside","v10",102.429167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7409207169702,FALSE
+2015-12-23,2015-12-24,"hope","Stanford-le-Hope Roadside","v10",74.525,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7974066424478,FALSE
+2015-12-24,2015-12-25,"hope","Stanford-le-Hope Roadside","v10",72.104167,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7381561047863,FALSE
+2015-12-25,2015-12-26,"hope","Stanford-le-Hope Roadside","v10",72.716667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8299594655162,FALSE
+2015-12-26,2015-12-27,"hope","Stanford-le-Hope Roadside","v10",121.3625,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8146917139117,FALSE
+2015-12-27,2015-12-28,"hope","Stanford-le-Hope Roadside","v10",121.5625,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.737442640493,FALSE
+2015-12-28,2015-12-29,"hope","Stanford-le-Hope Roadside","v10",100.858333,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7388315893933,FALSE
+2015-12-29,2015-12-30,"hope","Stanford-le-Hope Roadside","v10",106.595833,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.7817813307217,FALSE
+2015-12-30,2015-12-31,"hope","Stanford-le-Hope Roadside","v10",96.141667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.8452262641376,FALSE
+2015-12-31,2016-01-01,"hope","Stanford-le-Hope Roadside","v10",56.391667,65521,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.6819442149843,FALSE
+2015-10-12,2015-10-13,"hope","Stanford-le-Hope Roadside","v25",7.878261,65523,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",4.07017927626583,FALSE
+2015-10-30,2015-10-31,"hulr","Hull Holderness Road","v10",732421500.075,74702,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",10.9548252711447,FALSE
+2015-10-31,2015-11-01,"hulr","Hull Holderness Road","v10",976562000,74702,12,2,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","suspect",NA,1006,"AUN",11.0003695429427,FALSE
+2015-11-23,2015-11-24,"newc","Newcastle Centre","v25",-0.33913,65082,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",-3.00383017704192,FALSE
+2015-11-30,2015-12-01,"newc","Newcastle Centre","v25",-2.877273,65082,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",-3.43697597421082,FALSE
+2015-11-22,2015-11-23,"newc","Newcastle Centre","v10",-2.270833,63646,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.14449993273458,FALSE
+2015-10-08,2015-10-09,"no12","Norwich Lakenfields","v10",-1.9375,66272,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.34938398042255,FALSE
+2015-10-09,2015-10-10,"no12","Norwich Lakenfields","v10",-1.129167,66272,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.0894120068849,FALSE
+2015-10-10,2015-10-11,"no12","Norwich Lakenfields","v10",-0.2125,66272,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.2292325382191,FALSE
+2015-10-11,2015-10-12,"no12","Norwich Lakenfields","v10",-1.145833,66272,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.15042613227775,FALSE
+2015-11-24,2015-11-25,"no12","Norwich Lakenfields","v25",5.408333,66274,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",3.01018927437364,FALSE
+2015-11-21,2015-11-22,"plym","Plymouth Centre","v25",3.6875,66230,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",3.26051686049299,FALSE
+2015-10-29,2015-10-30,"pmth","Portsmouth","v10",8.2125,64952,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",4.45775106727917,FALSE
+2015-10-02,2015-10-03,"pres","Preston","v25",10.8125,65363,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",3.17626768060446,FALSE
+2015-10-10,2015-10-11,"rea1","Reading New Town","v25",-0.566667,65098,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1010,"AUN",-3.5338321520502,FALSE
+2015-11-26,2015-11-27,"roch","Rochester Stoke","v10",5.870833,65671,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1008,"RURAL",3.28109682754558,FALSE
+2015-11-27,2015-11-28,"roch","Rochester Stoke","v10",9.791667,65671,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1008,"RURAL",4.69910352254886,FALSE
+2015-11-29,2015-11-30,"roch","Rochester Stoke","v10",5.2125,65671,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1008,"RURAL",3.87252802105506,FALSE
+2015-11-30,2015-12-01,"roch","Rochester Stoke","v10",5.441667,65671,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1008,"RURAL",3.46517057421346,FALSE
+2015-11-15,2015-11-16,"sash","Saltash Callington Road","v10",5.4625,74226,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.07297019635057,FALSE
+2015-11-16,2015-11-17,"sash","Saltash Callington Road","v10",6.7375,74226,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",4.2722750344127,FALSE
+2015-11-18,2015-11-19,"sash","Saltash Callington Road","v10",5.295833,74226,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.65823098494681,FALSE
+2015-11-19,2015-11-20,"sash","Saltash Callington Road","v10",5.091667,74226,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",3.24655818818006,FALSE
+2015-10-26,2015-10-27,"sdy","Sandy Roadside","v10",515.6375,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",11.2202917980993,FALSE
+2015-11-06,2015-11-07,"sdy","Sandy Roadside","v10",-4.970833,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-4.8975255575423,FALSE
+2015-11-07,2015-11-08,"sdy","Sandy Roadside","v10",-3.491667,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-4.22026483222322,FALSE
+2015-11-08,2015-11-09,"sdy","Sandy Roadside","v10",-1.466667,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.33942875550575,FALSE
+2015-11-09,2015-11-10,"sdy","Sandy Roadside","v10",-3.025,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-4.4546975868998,FALSE
+2015-11-10,2015-11-11,"sdy","Sandy Roadside","v10",-2.855,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-4.00453874349632,FALSE
+2015-11-11,2015-11-12,"sdy","Sandy Roadside","v10",-2.279167,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.96618291192344,FALSE
+2015-11-12,2015-11-13,"sdy","Sandy Roadside","v10",-1.154167,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.38147420534628,FALSE
+2015-11-16,2015-11-17,"sdy","Sandy Roadside","v10",-2.156522,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",-3.26581273629144,FALSE
+2015-11-20,2015-11-21,"sdy","Sandy Roadside","v10",19.520833,65381,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean","provisional",NA,1006,"AUN",9.22465266145095,FALSE

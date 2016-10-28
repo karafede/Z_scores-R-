@@ -1,0 +1,2 @@
+"date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","unit_id","unit_name","statistic_type","network_parameter_id","network_id","z_score","z_score_fail"
+2016-04-22,2016-04-23,"pt10","Port Talbot Theodore Road","v10",6.791667,2171,12,1,118,"ugm-3 (TEOM FDMS)","daily_mean",101,"waun",3.55336004712149,FALSE
